@@ -1,16 +1,21 @@
 # Hi, I am Rebeca!
 
-I am Ph.D. candidate in Biomedical Engineering at Johns Hopkins University with experience at the intersection of **computational systems biology**, **medical imaging**, and **machine learning**. My work focuses on modeling **vascular signaling pathways**, analyzing **cerebral hemodynamics**, and building **predictive models of brain blood flow dynamics** from high-resolution time-series imaging data.
+I recently earned my Ph.D. in Biomedical Engineering at Johns Hopkins University (School of Medicine), where I worked at the intersection of computational systems biology, medical imaging, and machine learning.
+
+My research combined mechanistic modeling, time-series imaging analysis, and deep learning to study angiogenesis pathways, cerebral microcirculation, and spatiotemporal prediction of brain blood flow dynamics.
 
 ---
 
 ### 🧠 Research Interests  
-- Cerebral microcirculation & neurovascular dynamics  
-- ML for spatiotemporal prediction of physiological processes  
-- Mechanistic modeling (ODEs, SimBiology) of signaling pathways  
+
+- Mechanistic modeling (ODEs, SimBiology) of signaling pathways
+- Angiogenesis
+- PK/PD and QSP 
 - Image processing & segmentation (microCT, light-sheet, LSC, IOS)  
 - Translational neuroscience, seizures, and blood-brain barrier modeling  
 - Spatial transcriptomic, vasculomics, and genomics
+- Cerebral microcirculation & neurovascular dynamics  
+- ML for spatiotemporal prediction of physiological processes  
 ---
 
 ### 🛠️ Technical Skills  
